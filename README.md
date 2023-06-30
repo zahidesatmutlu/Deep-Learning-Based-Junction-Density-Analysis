@@ -11,6 +11,8 @@
   <br>Junction Density Analysis Using OpenCV and YOLOv5
 </p>
 
+![Junction Density Analysis Using OpenCV and YOLOv5](https://media.giphy.com/media/qFnWdofoVuowVljKpy/giphy.gif)
+
 
 ## Installations ⬇️
 
