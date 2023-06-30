@@ -13,6 +13,7 @@
 
 ![Junction Density Analysis Using OpenCV and YOLOv5](https://www.hizliresim.com/kwsggha)
 
+[url=https://www.hizliresim.com/kwsggha][img]https://i.hizliresim.com/kwsggha.gif[/img][/url]
 
 ## Installations ⬇️
 
