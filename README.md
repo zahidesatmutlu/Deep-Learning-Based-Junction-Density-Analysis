@@ -7,11 +7,11 @@
 💡 Vehicle and human detection were made through bird's-eye view images recorded with an unmanned aerial vehicle camera. The object counter is integrated into the YOLO algorithm, which is trained with a special data set. Density parameters are returned over the predetermined number of objects according to the intersection size.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qFnWdofoVuowVljKpy/giphy.gif" />
+  <img src="https://gifyu.com/image/SQDUs" />
   <br>Junction Density Analysis Using OpenCV and YOLOv5
 </p>
 
-![Junction Density Analysis Using OpenCV and YOLOv5](https://media.giphy.com/media/qFnWdofoVuowVljKpy/giphy.gif)
+![Junction Density Analysis Using OpenCV and YOLOv5](https://gifyu.com/image/SQDUs)
 
 
 ## Installations ⬇️
