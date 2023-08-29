@@ -11,7 +11,7 @@
   <br>Junction Density Analysis Using OpenCV and YOLOv5
 </p>
 
-## Installations ⬇️
+## Installations
 
 - A virtual environment is created for the system. (Assuming you have [Anaconda](https://www.anaconda.com/) installed.)
 
